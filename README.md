@@ -1,4 +1,36 @@
 
+<div align="center">
+
+# C++ 那些事
+
+<p align="center">
+  <a href="./README.md">🇨🇳 中文</a> |
+  <a href="./README_EN.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Light-City/CPlusPlusThings/stargazers">
+    <img src="https://img.shields.io/github/stars/Light-City/CPlusPlusThings?style=flat-square&color=yellow" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Light-City/CPlusPlusThings/network/members">
+    <img src="https://img.shields.io/github/forks/Light-City/CPlusPlusThings?style=flat-square&color=blue" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/Light-City/CPlusPlusThings/issues">
+    <img src="https://img.shields.io/github/issues/Light-City/CPlusPlusThings?style=flat-square&color=red" alt="GitHub Issues">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/Light-City/CPlusPlusThings?style=flat-square&color=green" alt="License">
+  </a>
+</p>
+
+<p align="center">
+  <strong>C++ 那些事 | 从入门到进阶的 C++ 学习之旅 | 深入理解现代 C++</strong>
+</p>
+
+</div>
+
+---
+
 - [C++ 那些事](#c-那些事)
     - [重磅项目](#重磅项目)
     - [关于作者](#关于作者)
@@ -49,6 +81,10 @@
 - 英文名：**Stories About C Plus Plus**
 
 这是一个适合初学者从<u>**入门到进阶**</u>的仓库，解决了<u>**面试者与学习者**</u>想要<u>**深入 C++**</u> 及如何<u>**入坑 C++**</u> 的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的 C++ 学习从入门到进阶提升的仓库。
+
+> 🎯 **适合人群**: C++ 初学者、面试准备者、想系统学习 Modern C++ 的开发者
+> 📚 **涵盖内容**: C++11/14/17/20 新特性、STL 源码剖析、设计模式、并发编程
+> 🔧 **实践导向**: 配套完整代码示例和实战项目
 
 
 ### 重磅项目
@@ -420,18 +456,6 @@ map<int, int> mp{
 #### 一些问题
 
 - [C++ 中如何将 string 类型转换为 int 类型？](./extension/some_problem/string_int.md)
-
-### 贡献者
-
-
-
-| 贡献人  | 地址                          |
-| ------- | ----------------------------- |
-| 光城    | https://github.com/Light-City |
-| ChungZH | https://github.com/ChungZH    |
-| xliu79  | https://github.com/xliu79     |
-
-
 
 
 
