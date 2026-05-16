@@ -74,12 +74,12 @@
 <table>
   <tbody>
     <tr>
-      <th align="center" style="height=200 width="200">
-          <img src="./img/cpp.jpg" height="200" width="200" ><br>
+      <th align="center" height="200" width="200">
+          <img src="./img/cpp.jpg" height="200" width="200"><br>
           星球
       </th>
-      <th align="center" style="height=200 width="200">
-          <img src="./img/wechat.jpg" height="200" width="200" ><br>
+      <th align="center" height="200" width="200">
+          <img src="./img/wechat.jpg" height="200" width="200"><br>
           微信公众号
       </th>
     </tr>
@@ -343,7 +343,7 @@ C++2.0 是一个简称，意为「现代 C++」，包括 C++11/14/17/20。
 ##### 你最喜欢的 c++ 编程风格惯用法是什么?
 
 - [1.类初始化列表](./codingStyleIdioms/1_classInitializers)
-- [2.枚举类替换命名空间](./codingStyleIdioms/2_enumclass_namespace)
+- [2.枚举类替换命名空间](./codingStyleIdioms/2_enumclass)
 - [3.RAII (资源获取即初始化)](./codingStyleIdioms/3_RAII)
 - [4.copy and swap](./codingStyleIdioms/4_copy-swap)
 - [5.pImpl (指针指向具体实现)](./codingStyleIdioms/5_pImpl)
@@ -353,7 +353,7 @@ C++2.0 是一个简称，意为「现代 C++」，包括 C++11/14/17/20。
 #### [极客时间《现代 C++ 实战 30 讲》](https://time.geekbang.org/channel/home)
 
 - [堆、栈、RAII：C++ 里该如何管理资源？](./learn_class/modern_cpp_30/RAII)
-  - [堆](./learn_class/modern_++_30/RAII/heap.cpp)
+  - [堆](./learn_class/modern_cpp_30/RAII/heap.cpp)
   - [栈](./learn_class/modern_cpp_30/RAII/stack.cpp)
   - [RAII](./learn_class/modern_cpp_30/RAII/RAII.cpp)
 - [自己动手，实现 C++ 的智能指针](./learn_class/modern_cpp_30/smart_ptr)
@@ -370,7 +370,7 @@ C++2.0 是一个简称，意为「现代 C++」，包括 C++11/14/17/20。
 - [容器 2](./learn_class/modern_cpp_30/container2)
 - [异常](./learn_class/modern_cpp_30/exception)
 - [字面量、静态断言和成员函数说明符](./learn_class/modern_cpp_30/literalAssert)
-- [是不是应该返回对象？](./learn_class/modern_cpp_30/returnObj)
+- [是不是应该返回对象？](./learn_class/modern_cpp_30/obj)
 - [编译期多态：泛型编程和模板入门](./learn_class/modern_cpp_30/compilerpoly)
 - [译期能做些什么？一个完整的计算世界](./learn_class/modern_cpp_30/compilercompute)
 - [SFINAE：不是错误的替换失败是怎么回事?](./learn_class/modern_cpp_30/SFINAE)
