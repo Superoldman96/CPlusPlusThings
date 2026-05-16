@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./img/logo.png" alt="C++ Stories Things | Stories About C Plus Plus" width="480">
+</p>
+
 # Stories About C Plus Plus
 
 <p align="center">

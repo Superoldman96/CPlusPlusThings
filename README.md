@@ -1,6 +1,10 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="./img/logo.png" alt="C++那些事 | Stories About C Plus Plus" width="480">
+</p>
+
 # C++ 那些事
 
 <p align="center">
